@@ -1,0 +1,14 @@
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Magnus\code\visualStudio\proj1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
